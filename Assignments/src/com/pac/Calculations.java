@@ -8,7 +8,7 @@ public static void insertOperator() {
 	System.out.println("enter the values");
 	double a = sc.nextDouble();
     double b = sc.nextDouble();
-System.out.println("enter operators like +,-,*,%");
+System.out.println("enter operators");
 char operator= sc.next().charAt(0);
 double result;
 switch(operator) {
