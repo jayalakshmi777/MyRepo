@@ -4,6 +4,7 @@ public class Book {
 	String bname;
 	String bauthor;
 	double bcost;
+	String desc;
 	public String getBname() {
 		return bname;
 	}
