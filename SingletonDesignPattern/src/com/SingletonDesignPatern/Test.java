@@ -14,7 +14,8 @@ public class Test {
 	     Collections.sort(e, new TestCase());
 	     for(Emp ee:e) {
 	    	 System.out.println(ee.getEname());
-	    	 System.out.println(ee.getEid());
+	   
+	    	 
 	     }
 	}
 }
