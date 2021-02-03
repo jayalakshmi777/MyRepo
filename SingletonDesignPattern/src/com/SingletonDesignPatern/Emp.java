@@ -3,6 +3,11 @@ package com.SingletonDesignPatern;
 public class Emp {
 private int eid;
 private String ename;
+@Override
+public String toString() {
+	return "Emp [eid=" + eid + ", ename=" + ename + "]";
+}
+
 public Emp(int eid, String ename) {
 	super();
 	this.eid = eid;
