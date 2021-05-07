@@ -12,5 +12,9 @@ public class TestController {
 	public void adminPage() {
 		System.out.println("admin page");
 	}
+	public void cleintPage() {
+		System.out.println("admin page");
+	}
+
 
 }
